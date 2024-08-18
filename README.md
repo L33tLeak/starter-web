@@ -31,3 +31,4 @@ review.
 ###Copyright
 
 2024 Git.training.
+All rights reserved.
